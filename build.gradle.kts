@@ -8,12 +8,12 @@ group = "org.example"
 version = System.getenv().getOrDefault("VERSION", "1.0.0")
 
 labyMod {
-    defaultPackageName = "org.example" //change this to your main package name (used by all modules)
+    defaultPackageName = "com.rappytv.rainbowgui"
     addonInfo {
-        namespace = "example"
-        displayName = "ExampleAddon"
-        author = "Example Author"
-        description = "Example Description"
+        namespace = "rainbowgui"
+        displayName = "Rainbow GUI"
+        author = "RappyTV"
+        description = "Improve your widget HUD with some rainbow widgets."
         minecraftVersion = "*"
         version = getVersion().toString()
     }
