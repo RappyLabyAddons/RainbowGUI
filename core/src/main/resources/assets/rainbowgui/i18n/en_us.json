@@ -1,8 +1,40 @@
 {
     "rainbowgui": {
         "settings": {
+            "header": {
+                "prefix": {
+                    "name": "Prefix"
+                },
+                "brackets": {
+                    "name": "Brackets"
+                },
+                "values": {
+                    "name": "Values"
+                }
+            },
             "enabled": {
                 "name": "Enabled"
+            },
+            "speed": {
+                "name": "Rainbow speed"
+            },
+            "prefixEnabled": {
+                "name": "Rainbow prefix"
+            },
+            "prefixDelay": {
+                "name": "Prefix speed"
+            },
+            "bracketsEnabled": {
+                "name": "Rainbow brackets"
+            },
+            "bracketDelay": {
+                "name": "Bracket speed"
+            },
+            "valuesEnabled": {
+                "name": "Rainbow values"
+            },
+            "valueDelay": {
+                "name": "Value delay"
             }
         }
     }
