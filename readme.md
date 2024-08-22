@@ -1,4 +1,4 @@
-# **Toolbreak Warning**
+# **Rainbow GUI**
 ![Downloads](https://labybadges-delta.vercel.app/api/downloads/rainbowgui/formatted)<br>
 
 ### Installation
