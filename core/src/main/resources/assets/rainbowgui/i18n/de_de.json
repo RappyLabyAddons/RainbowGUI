@@ -3,38 +3,38 @@
         "settings": {
             "header": {
                 "prefix": {
-                    "name": "Prefixes"
+                    "name": "Präfixe"
                 },
                 "brackets": {
-                    "name": "Brackets"
+                    "name": "Klammern"
                 },
                 "values": {
-                    "name": "Values"
+                    "name": "Werte"
                 }
             },
             "enabled": {
-                "name": "Enabled"
+                "name": "Aktiviert"
             },
             "speed": {
-                "name": "Rainbow speed"
+                "name": "Regenbogengeschwindigkeit"
             },
             "prefixEnabled": {
-                "name": "Rainbow prefix"
+                "name": "Regenbogenpräfix"
             },
             "prefixDelay": {
-                "name": "Prefix delay"
+                "name": "Präfixverzögerung"
             },
             "bracketsEnabled": {
-                "name": "Rainbow brackets"
+                "name": "Regenbogenklammern"
             },
             "bracketDelay": {
-                "name": "Bracket delay"
+                "name": "Klammernverzögerung"
             },
             "valuesEnabled": {
-                "name": "Rainbow values"
+                "name": "Regenbogenwerte"
             },
             "valueDelay": {
-                "name": "Value delay"
+                "name": "Werteverzögerung"
             }
         }
     }
