@@ -18,10 +18,10 @@
             "speed": {
                 "name": "Rainbow speed"
             },
-            "prefixEnabled": {
+            "labelEnabled": {
                 "name": "Rainbow prefix"
             },
-            "prefixDelay": {
+            "labelDelay": {
                 "name": "Prefix delay"
             },
             "bracketsEnabled": {
