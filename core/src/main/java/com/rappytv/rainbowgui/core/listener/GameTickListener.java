@@ -22,10 +22,10 @@ public class GameTickListener {
       return;
     }
     this.rainbowTime += this.addon.configuration().speed().get();
-    if (this.addon.configuration().prefixEnabled().get()) {
+    if (this.addon.configuration().labelEnabled().get()) {
       Laby.references().hudWidgetRegistry().globalHudWidgetConfig().labelColor().set(
           this.getRainbowColor(
-              this.rainbowTime + this.addon.configuration().prefixDelay().get() * 10L
+              this.rainbowTime + this.addon.configuration().labelDelay().get() * 10L
           )
       );
     }
